@@ -17,4 +17,5 @@ For geting build file run this command
 ```
 npm run build
 ```
-and you can findout a bundle.js file into the public folder
+and you can findout a bundle.js file into the public folder and it's connected with index.html
+
